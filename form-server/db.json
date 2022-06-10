@@ -1,0 +1,20 @@
+{
+  "forms": [],
+  "users": [
+    {},
+    {
+      "id": "a8f9e1d4-c84e-4fe2-99e2-9f080c503526",
+      "account": "admin",
+      "pwd": "0e5f9b0bd5bf21f991f4bb7cb798f8d6f4fdb126093c4b5e500a88e230afd81a",
+      "password": "Admin@123",
+      "status": 2,
+      "ctime": 1654494224794,
+      "utime": 1654494224794,
+      "nickname": "admin",
+      "avatar": ""
+    }
+  ],
+  "starProblems": [],
+  "formModules": [],
+  "formResults": []
+}

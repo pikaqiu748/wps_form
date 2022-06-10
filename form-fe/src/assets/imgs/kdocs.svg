@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#0062FF;}
+	.st1{filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	
+		.st3{opacity:0.6;mask:url(#mask-2_1_);fill-rule:evenodd;clip-rule:evenodd;fill:url(#路径-6备份_1_);enable-background:new    ;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:url(#形状结合_1_);}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:url(#路径-2_1_);}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#0082FF;}
+	.st7{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st8{opacity:0.6007;mask:url(#mask-7_1_);fill-rule:evenodd;clip-rule:evenodd;fill:url(#路径-6_1_);enable-background:new    ;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:url(#路径-3备份_1_);}
+</style>
+<g>
+	<g id="金山文档" transform="translate(3.575521, 2.000000)">
+		<g id="编组-5" transform="translate(1.424479, 22.557292)">
+			<g id="路径">
+				<path class="st0" d="M8.2,0L15,4v9L0.5,4.7C0.4,4.6,0.3,4.4,0.4,4.3c0-0.1,0.1-0.1,0.1-0.1L8.2,0L8.2,0z"/>
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="-0.3" width="15" height="13.3">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="0" y="-0.3" width="15" height="13.3" id="mask-2_1_">
+				<g class="st1">
+					<path id="path-1_1_" class="st2" d="M8.2,0L15,4v9L0.5,4.7C0.4,4.6,0.3,4.4,0.4,4.3c0-0.1,0.1-0.1,0.1-0.1L8.2,0L8.2,0z"/>
+				</g>
+			</mask>
+			
+				<linearGradient id="路径-6备份_1_" gradientUnits="userSpaceOnUse" x1="-510.0301" y1="1124.3035" x2="-510.3151" y2="1123.9319" gradientTransform="matrix(14.9999 0 0 -13.3157 7662.936 14973.7969)">
+				<stop  offset="0" style="stop-color:#0044B1"/>
+				<stop  offset="1" style="stop-color:#0062FF;stop-opacity:0"/>
+			</linearGradient>
+			<polygon id="路径-6备份" class="st3" points="15,13 15,3.7 8,-0.3 0,4.6 			"/>
+		</g>
+		
+			<linearGradient id="形状结合_1_" gradientUnits="userSpaceOnUse" x1="-509.2509" y1="1170.3945" x2="-508.7997" y2="1170.7568" gradientTransform="matrix(15 0 0 -18.1846 7658.0571 21314.6914)">
+			<stop  offset="0" style="stop-color:#1A4ACC"/>
+			<stop  offset="1" style="stop-color:#0854E4"/>
+		</linearGradient>
+		<path id="形状结合" class="st4" d="M31.4,17.4v10.2l-15,8v-9L31.4,17.4z"/>
+		
+			<linearGradient id="路径-2_1_" gradientUnits="userSpaceOnUse" x1="-477.3255" y1="1169.6383" x2="-477.3255" y2="1170.3756" gradientTransform="matrix(8 0 0 -18 3846.0286 21078.5566)">
+			<stop  offset="0" style="stop-color:#0A5DF6"/>
+			<stop  offset="1" style="stop-color:#124CDC"/>
+		</linearGradient>
+		<polygon id="路径-2" class="st5" points="31.4,27.6 31.4,9.6 23.4,12.4 23.4,22.3 		"/>
+		<g id="编组-3" transform="translate(1.424479, 12.557292)">
+			<g id="编组-4" transform="translate(0.000000, 1.000000)">
+				<g>
+					<path class="st6" d="M7.9,0L15,3.7V13L0.5,4.6C0.3,4.6,0.3,4.4,0.4,4.2c0-0.1,0.1-0.1,0.1-0.1L7.9,0L7.9,0z"/>
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="0.5" y="0" width="14.5" height="13">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="0.5" y="0" width="14.5" height="13" id="mask-7_1_">
+					<g class="st7">
+						<path id="path-6_1_" class="st2" d="M7.9,0L15,3.7V13L0.5,4.6C0.3,4.6,0.3,4.4,0.4,4.2c0-0.1,0.1-0.1,0.1-0.1L7.9,0L7.9,0z"/>
+					</g>
+				</mask>
+				
+					<linearGradient id="路径-6_1_" gradientUnits="userSpaceOnUse" x1="-508.7787" y1="1131.1255" x2="-509.0652" y2="1130.7695" gradientTransform="matrix(14.4969 0 0 -13 7388.3135 14707.7549)">
+					<stop  offset="0" style="stop-color:#0044B1"/>
+					<stop  offset="1" style="stop-color:#0062FF;stop-opacity:0"/>
+				</linearGradient>
+				<path id="路径-6" class="st8" d="M15,13V4.1L7.6,0L0.8,3.8C0.5,3.9,0.4,4.2,0.6,4.5c0,0.1,0.1,0.1,0.2,0.2L15,13L15,13z"/>
+			</g>
+		</g>
+		<g id="编组-2" transform="translate(0.424479, 0.557292)">
+			
+				<linearGradient id="路径-3备份_1_" gradientUnits="userSpaceOnUse" x1="-527.2449" y1="1169.5374" x2="-527.2449" y2="1168.5374" gradientTransform="matrix(29.6904 0 0 -17.8909 15670.2754 20924.2285)">
+				<stop  offset="0" style="stop-color:#4AC3FF"/>
+				<stop  offset="1" style="stop-color:#0E93F8"/>
+			</linearGradient>
+			<path id="路径-3备份" class="st9" d="M15.7,0.2L1.5,8.7C1.3,8.8,1.3,9,1.4,9.2c0,0,0.1,0.1,0.1,0.1L16,18l0,0l15-9L16.3,0.2
+				C16.1,0.1,15.9,0.1,15.7,0.2z"/>
+		</g>
+	</g>
+</g>
+</svg>

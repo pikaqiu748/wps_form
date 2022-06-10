@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB,
+    STHeitiSC-Light, Microsoft YaHei, \\5FAE\8F6F\96C5\9ED1, SimSun, sans-serif;
+}
+html,
+body,
+#app {
+  height: 100%;
+}
+
+:root {
+  --aside-width: 150px;
+}
+
+.card-body :deep(.el-card__body) {
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-body :deep(.el-breadcrumb) {
+  line-height: 40px;
+}
+
+.el-main {
+  padding: 0;
+}
+
+/* 重写element-plus中的样式 */
+.el-menu-item {
+  height: 50px;
+  padding: 0px;
+  min-width: var(--aside-width);
+}
+
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+}
+.user-info {
+  margin-right: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.user-name {
+  margin-left: 10px;
+}

@@ -1,0 +1,35 @@
+{
+  "name": "jsform",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite serve --mode development --host",
+    "build": "vue-tsc --noEmit && vite build",
+    "prod": "vite serve --mode production --host",
+    "build:dev": "vue-tsc --noEmit && vite build --mode development",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "element-plus": "^2.2.0",
+    "nanoid": "^3.3.4",
+    "os": "^0.1.2",
+    "pinia": "^2.0.14",
+    "pinia-plugin-persist": "^1.0.0",
+    "qrcode.vue": "^3.3.3",
+    "vue": "^3.2.25",
+    "vue-avatar": "^2.3.3",
+    "vue-avatar-cropper": "^6.0.9",
+    "vue-cropper": "^0.5.8",
+    "vue-qr": "^4.0.9",
+    "vue-router": "^4.0.15"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.33",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "sass": "^1.52.1",
+    "typescript": "^4.5.4",
+    "vite": "^2.9.9",
+    "vue-tsc": "^0.34.7"
+  }
+}
