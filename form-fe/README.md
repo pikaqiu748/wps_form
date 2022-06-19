@@ -1,5 +1,3 @@
-# jsForm 组大作业
-
 ## 模块划分
 
 - 1.注册
@@ -11,15 +9,6 @@
 - 7.填写详情-分享
 - 8.填写详情-问题
 - 9.表单填写
-
-## 小组分工
-
-- 呙中婷：注册、登录、个人中心
-- 曾会：首页
-- 丁苗：新建表单
-- 李辉：填写详情-数据统计 填写详情-分享
-- 黄光煜：填写详情-问题 表单填写
-- ps:分工仅供参考，项目很多部分团队合力完成
 
 ## 项目说明
 
@@ -45,8 +34,7 @@ $ npm i
 $ npm serve
 ```
 
-host 配置：手机端和电脑端运行在同一个局域网里
-
+分享表单时：手机端和电脑端运行在同一个局域网里，扫描二维码即可
 
 ### eslint 规范参考
 
@@ -66,25 +54,25 @@ host 配置：手机端和电脑端运行在同一个局域网里
 │  tsconfig.json
 │  tsconfig.node.json
 │  vite.config.ts
-│  
+│
 ├─.vscode
 │      extensions.json
-│      
+│
 ├─public
 │      favicon.ico
 │      wps.ico
-│      
+│
 └─src
     │  App.vue       #入口页面
     │  env.d.ts
     │  main.ts         #入口文件
     │  test.js
-    │  
+    │
     ├─api       #封装网络请求
     │      axios.ts
     │      index.ts
     │      status.ts
-    │      
+    │
     ├─assets       #静态资源
     │  ├─icon
     │  │      demo.css
@@ -95,7 +83,7 @@ host 配置：手机端和电脑端运行在同一个局域网里
     │  │      iconfont.ttf
     │  │      iconfont.woff
     │  │      iconfont.woff2
-    │  │      
+    │  │
     │  ├─imgs
     │  │      app store-fill.png
     │  │      arow.png
@@ -133,10 +121,10 @@ host 配置：手机端和电脑端运行在同一个局域网里
     │  │      wechat.png
     │  │      write-success.png
     │  │      xiaochengxu.png
-    │  │      
+    │  │
     │  └─style
     │          global.css
-    │          
+    │
     ├─components    #公用组件
     │  │  BreadCrumb.vue
     │  │  DataDetailItem.vue
@@ -146,28 +134,28 @@ host 配置：手机端和电脑端运行在同一个局域网里
     │  │  HeaderNav.vue
     │  │  HeaderNavWrite.vue
     │  │  StaticsTableItem.vue
-    │  │  
+    │  │
     │  ├─answerType
     │  │      AnswerDetail.vue
-    │  │      
+    │  │
     │  ├─homePage
     │  │      FirstPage.vue
     │  │      FreeTemplate.vue
     │  │      Help.vue
     │  │      Nav.vue
     │  │      Solution.vue
-    │  │      
+    │  │
     │  ├─oneProblem
     │  │      ChoiceItem.vue
     │  │      DialogNewProblem.vue
     │  │      NewProblem.vue
-    │  │      
+    │  │
     │  ├─problemType
     │  │      ChoiceQuestion.vue
     │  │      DateQuestion.vue
     │  │      FillinQuestion.vue
     │  │      ScoreQuestion.vue
-    │  │      
+    │  │
     │  └─WriteType
     │          DateWrite.vue
     │          InputWrite.vue
@@ -176,19 +164,19 @@ host 配置：手机端和电脑端运行在同一个局域网里
     │          RateWrite.vue
     │          SingleSelectWrite.vue
     │          TimeWrite.vue
-    │          
+    │
     ├─router     #路由配置
     │      index.ts
     │      routes.ts
-    │      
+    │
     ├─store
     │      index.ts
     │      store-names.ts
-    │      
+    │
     ├─types
     │      models.ts
     │      request.ts
-    │      
+    │
     └─views       #所有页面
             CreateForm.vue
             DefaultView.vue
@@ -207,11 +195,5 @@ host 配置：手机端和电脑端运行在同一个局域网里
             UserCenter.vue
             WatchDetail.vue
             WriteForm.vue
-            
+
 ```
-
-## 每周(日)进度
-
-参考：【金山文档】 form 表单 https://www.kdocs.cn/l/cm7Y8HMHISRZ
-
-## 问题与解决方法
