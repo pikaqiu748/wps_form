@@ -81,8 +81,8 @@ const { account, password, checked } = storeToRefs(store);
 const userInfo = reactive({
   id: "",
   nickname: "",
-  account: "",
-  pwd: "",
+  account: "admin",
+  pwd: "Admin@123",
   password: password.value,
   avatar: "",
 });
