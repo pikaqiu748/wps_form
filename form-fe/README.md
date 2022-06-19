@@ -1,3 +1,8 @@
+## 项目运行
+开两个终端，分别进入前后端执行：
+- 1. npm install
+- 2. tsc 
+- 3. npm run dev(前端)和npm run serve(后端) (后端需要保持运行中)
 ## 模块划分
 
 - 1.注册
@@ -11,6 +16,9 @@
 - 9.表单填写
 
 ## 项目说明
+
+- 1. 在创建完表单后，在首页点击表单一行中的发布后，才可进入填写，否则为草稿状态。
+- 2. 填写完成后，可以查看表单问题，填写详情,所有填写的答案等
 
 ### 技术选型
 
@@ -34,7 +42,8 @@ $ npm i
 $ npm serve
 ```
 
-分享表单时：手机端和电脑端运行在同一个局域网里，扫描二维码即可
+host 配置：手机端和电脑端运行在同一个局域网里
+
 
 ### eslint 规范参考
 
@@ -54,25 +63,25 @@ $ npm serve
 │  tsconfig.json
 │  tsconfig.node.json
 │  vite.config.ts
-│
+│  
 ├─.vscode
 │      extensions.json
-│
+│      
 ├─public
 │      favicon.ico
 │      wps.ico
-│
+│      
 └─src
     │  App.vue       #入口页面
     │  env.d.ts
     │  main.ts         #入口文件
     │  test.js
-    │
+    │  
     ├─api       #封装网络请求
     │      axios.ts
     │      index.ts
     │      status.ts
-    │
+    │      
     ├─assets       #静态资源
     │  ├─icon
     │  │      demo.css
@@ -83,7 +92,7 @@ $ npm serve
     │  │      iconfont.ttf
     │  │      iconfont.woff
     │  │      iconfont.woff2
-    │  │
+    │  │      
     │  ├─imgs
     │  │      app store-fill.png
     │  │      arow.png
@@ -121,10 +130,10 @@ $ npm serve
     │  │      wechat.png
     │  │      write-success.png
     │  │      xiaochengxu.png
-    │  │
+    │  │      
     │  └─style
     │          global.css
-    │
+    │          
     ├─components    #公用组件
     │  │  BreadCrumb.vue
     │  │  DataDetailItem.vue
@@ -134,28 +143,28 @@ $ npm serve
     │  │  HeaderNav.vue
     │  │  HeaderNavWrite.vue
     │  │  StaticsTableItem.vue
-    │  │
+    │  │  
     │  ├─answerType
     │  │      AnswerDetail.vue
-    │  │
+    │  │      
     │  ├─homePage
     │  │      FirstPage.vue
     │  │      FreeTemplate.vue
     │  │      Help.vue
     │  │      Nav.vue
     │  │      Solution.vue
-    │  │
+    │  │      
     │  ├─oneProblem
     │  │      ChoiceItem.vue
     │  │      DialogNewProblem.vue
     │  │      NewProblem.vue
-    │  │
+    │  │      
     │  ├─problemType
     │  │      ChoiceQuestion.vue
     │  │      DateQuestion.vue
     │  │      FillinQuestion.vue
     │  │      ScoreQuestion.vue
-    │  │
+    │  │      
     │  └─WriteType
     │          DateWrite.vue
     │          InputWrite.vue
@@ -164,19 +173,19 @@ $ npm serve
     │          RateWrite.vue
     │          SingleSelectWrite.vue
     │          TimeWrite.vue
-    │
+    │          
     ├─router     #路由配置
     │      index.ts
     │      routes.ts
-    │
+    │      
     ├─store
     │      index.ts
     │      store-names.ts
-    │
+    │      
     ├─types
     │      models.ts
     │      request.ts
-    │
+    │      
     └─views       #所有页面
             CreateForm.vue
             DefaultView.vue
@@ -191,9 +200,13 @@ $ npm serve
             Register.vue
             Search.vue
             SubmitSucceed.vue
+            test.vue
+            TestHome.vue
+            TestRouter.vue
             UpLoad.vue
             UserCenter.vue
             WatchDetail.vue
             WriteForm.vue
-
+            
 ```
+
